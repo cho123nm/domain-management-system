@@ -1,0 +1,14 @@
+# CODE BY DAM THANH VU
+RewriteEngine on
+RewriteCond %{HTTPS} off
+
+# User-friendly routes (sử dụng file cũ)
+RewriteRule ^profile$ /Pages/account_profile.php [L]
+RewriteRule ^Checkout$ /Pages/Checkout.php [L]
+RewriteRule ^auth/login$ /Pages/login.php [L]
+RewriteRule ^auth/register$ /Pages/register.php [L]
+RewriteRule ^auth/logout$ /Pages/logout.php [L]
+RewriteRule ^Manager$ /Pages/managers.php [L]
+RewriteRule ^Recharge$ /Pages/Recharge.php [L]
+RewriteRule ^ManagesWhois/([a-zA-Z0-9_-]+)$ /Pages/ManagesWhois.php?domain=$1 [L]
+

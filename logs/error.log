@@ -1,0 +1,338 @@
+[2025-10-15 20:39:00] Error: Undefined array key "trangthai" in C:\xampp\htdocs\Adminstators\quan-ly-thanh-vien.php:127
+URL: /Adminstators/quan-ly-thanh-vien.php
+IP: ::1
+
+
+[2025-10-15 20:41:48] Error: Undefined array key "traloi" in C:\xampp\htdocs\Adminstators\DNS.php:103
+URL: /Adminstators/DNS.php
+IP: ::1
+
+
+[2025-10-15 21:36:49] INFO: Request received {"method":"POST","url":"\/Pages\/account_profile.php","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:37:04] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:37:04] Error: Cannot redeclare curl_get() (previously declared in C:\xampp\htdocs\Config\Database.php:40) in C:\xampp\htdocs\Config\Database.php:48
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:38:28] INFO: Request received {"method":"POST","url":"\/Pages\/account_profile.php","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:39:55] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:39:55] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:307
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:308
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:312
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:323
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:327
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:328
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:39:55] Error: Undefined variable $email in C:\xampp\htdocs\Config\Header.php:329
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:41:58] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:307
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:308
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:312
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:323
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:327
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:328
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:41:58] Error: Undefined variable $email in C:\xampp\htdocs\Config\Header.php:329
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:42:24] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:307
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:308
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:312
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:323
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:327
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:328
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:42:24] Error: Undefined variable $email in C:\xampp\htdocs\Config\Header.php:329
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:43:16] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:12
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:14
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $CaiDatChung in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Config\Header.php:15
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:307
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:308
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:312
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:323
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $username in C:\xampp\htdocs\Config\Header.php:327
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $sodu in C:\xampp\htdocs\Config\Header.php:328
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:43:16] Error: Undefined variable $email in C:\xampp\htdocs\Config\Header.php:329
+URL: /
+IP: ::1
+
+
+[2025-10-15 21:45:21] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:46:01] INFO: Request received {"method":"GET","url":"\/Recharge","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:46:07] INFO: Request received {"method":"GET","url":"\/Recharge","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:46:11] INFO: Request received {"method":"GET","url":"\/Manager","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:48:46] INFO: Request received {"method":"GET","url":"\/Manager","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:48:51] INFO: Request received {"method":"GET","url":"\/Recharge","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:48:56] INFO: Request received {"method":"GET","url":"\/Manager","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:49:13] INFO: Request received {"method":"GET","url":"\/","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:49:16] INFO: Request received {"method":"GET","url":"\/Recharge","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 21:49:21] INFO: Request received {"method":"GET","url":"\/Manager","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 23:16:58] INFO: Request received {"method":"GET","url":"\/auth\/logout","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 23:16:58] INFO: Action: logout {"username":"cho123nm123"}
+[2025-10-15 23:17:05] INFO: Request received {"method":"GET","url":"\/auth\/logout","ip":"::1","user_agent":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/141.0.0.0 Safari\/537.36 Edg\/141.0.0.0"}
+[2025-10-15 23:17:05] INFO: Action: logout {"username":""}
+[2025-10-17 02:50:14] Error: Undefined array key "trangthai" in C:\xampp\htdocs\Adminstators\quan-ly-thanh-vien.php:127
+URL: /Adminstators/quan-ly-thanh-vien.php
+IP: ::1
+
+
+[2025-10-17 02:50:36] Error: Undefined array key "trangthai" in C:\xampp\htdocs\Adminstators\quan-ly-thanh-vien.php:127
+URL: /Adminstators/quan-ly-thanh-vien.php
+IP: ::1
+
+
+[2025-10-17 02:51:09] Error: Undefined array key "trangthai" in C:\xampp\htdocs\Adminstators\quan-ly-thanh-vien.php:127
+URL: /Adminstators/quan-ly-thanh-vien.php
+IP: ::1
+
+
+[2025-10-20 11:54:11] Error: Undefined array key "trangthai" in C:\xampp\htdocs\Adminstators\quan-ly-thanh-vien.php:127
+URL: /Adminstators/quan-ly-thanh-vien.php
+IP: ::1
+
+
+[2025-10-27 01:17:39] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Adminstators\don-nap-vi.php:14
+URL: /Adminstators/don-nap-vi.php
+IP: ::1
+
+
+[2025-10-27 01:19:10] Error: Trying to access array offset on value of type null in C:\xampp\htdocs\Adminstators\don-nap-vi.php:14
+URL: /Adminstators/don-nap-vi.php
+IP: ::1
+
+
+[2025-10-29 02:55:32] Exception: Cannot access offset of type string on string in C:\xampp\htdocs\Pages\Recharge.php:184
+URL: /Recharge
+IP: ::1
+Stack trace:
+#0 {main}
+
+[2025-10-29 02:56:58] Exception: Cannot access offset of type string on string in C:\xampp\htdocs\Pages\Recharge.php:184
+URL: /Recharge
+IP: ::1
+Stack trace:
+#0 {main}
+
