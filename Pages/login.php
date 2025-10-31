@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta property="og:locale" content="en_US" />
 		<meta property="og:type" content="article" />
-		<meta property="og:title" content="Tạo Shop Free Fire Giá Rể - Rút Kim Cương Về Acc" />
+		<meta property="og:title" content="Shop tên miền uy tín nhất Việt Nam" />
 		<meta property="og:url" content="https://api.nhthanh.net" />
 		<meta property="og:site_name" content="Mã nguồn liên hệ Thanh vũ admin" />
 		<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
@@ -20,17 +20,12 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700" />
 		<!--end::Fonts-->
 	
-		<link href="/assets/plugins/custom/fullcalendar/fullcalendar.bundle.css" rel="stylesheet" type="text/css" />
-		<link href="/assets/plugins/custom/datatables/datatables.bundle.css" rel="stylesheet" type="text/css" />
-	
 		<link href="/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css" />
 		<link href="/assets/css/style.bundle.css" rel="stylesheet" type="text/css" />
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js">
 		    
 		    
 		</script>
-		<link href="/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css"/>
-		
 		<link href="/assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css"/>
         <script src="/assets/plugins/global/plugins.bundle.js">
             
@@ -169,7 +164,7 @@
 
 <a href="" class="symbol symbol-circle symbol-45px w-45px bg-light me-3">
     
-    <img alt="Logo" src="https://autosub.vn/assets/media/svg/brand-logos/facebook-2.svg" class="p-4">
+    <img alt="Logo" src="/assets/media/svg/brand-logos/facebook-2.svg" class="p-4">
 
 </a>
 
@@ -190,7 +185,7 @@
     
     <button class="btn btn-flex btn-link rotate" data-kt-menu-trigger="click" data-kt-menu-placement="bottom-start" data-kt-menu-offset="0px, 0px">
     
-    <img data-kt-element="current-lang-flag" class="w-25px h-25px rounded-circle me-3" src="https://autosub.vn/assets/media/flags/vietnam.svg" alt="">
+    <img data-kt-element="current-lang-flag" class="w-25px h-25px rounded-circle me-3" src="/assets/media/flags/vietnam.svg" alt="">
 
 <span data-kt-element="current-lang-name" class="me-2">Vietnamese</span>
 
