@@ -204,4 +204,6 @@ $update = $historyRepo->countAhihiOne();
     </div>
 </div>
 
-<?php include('Connect/Footer.php'); ?>
+<?php 
+include('Connect/Footer.php'); 
+?>

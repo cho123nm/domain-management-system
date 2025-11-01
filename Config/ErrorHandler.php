@@ -145,3 +145,5 @@ class ErrorHandler {
         file_put_contents($this->logFile, $logEntry, FILE_APPEND | LOCK_EX);
     }
 }
+
+?>

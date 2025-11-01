@@ -1,10 +1,11 @@
 <?php
-
-
-
 include_once('../Config/Database.php');
 include_once('../Repositories/HistoryRepository.php');
 include_once('../Repositories/UserRepository.php');
+
+if (session_status() === PHP_SESSION_NONE) {
+    session_start();
+}
 
 if(!isset($_SESSION['users'])){
     echo '<script>toastr.error("Vui lòng đăng nhập!", "Thông Báo");</script>';
@@ -34,11 +35,11 @@ if(!$checkmgd) {
     exit;
 }
 if($ns1 == "" || $ns2 == ""){
-   echo '<script>toastr.error("Vui Lòng Nhập Đầy Đủ Thông Tin!", "Thông Báo");</script>';
+    echo '<script>toastr.error("Vui Lòng Nhập Đầy Đủ Thông Tin!", "Thông Báo");</script>';
 } else {
-   if(($checkmgd['timedns'] ?? '') == '0'){
-      $historyRepo->updateDns($mgd, $ns1, $ns2, $chuky);
-      echo '<script>toastr.success("Thay Đổi DNS Thành Công, Vui Lòng Chờ 12h - 24h Để DNS Mới Hoạt Động", "Thông Báo");</script>';
+    if(($checkmgd['timedns'] ?? '') == '0'){
+        $historyRepo->updateDns($mgd, $ns1, $ns2, $chuky);
+        echo '<script>toastr.success("Thay Đổi DNS Thành Công, Vui Lòng Chờ 12h - 24h Để DNS Mới Hoạt Động", "Thông Báo");</script>';
     } else {
         echo '<script>toastr.error("Bạn Không Thể Cập Nhật Thông Tin Ngay Bây Giờ Vui Lòng Đợi Chu Kỳ 15 Qua!", "Thông Báo");</script>';
     }

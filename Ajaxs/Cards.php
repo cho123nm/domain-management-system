@@ -41,12 +41,10 @@ if ($pin === "" || $serial === "" || $amount === "" || $type === "") {
 } elseif ($user_id <= 0) {
     echo '<script>toastr.error("Vui lòng đăng nhập lại để nạp thẻ", "Thông Báo");</script>';
 } else {
-
     $cardRepo = new CardRepository($connect);
     if ($cardRepo->existsByPinSerial($pin, $serial)) {
         echo '<script>toastr.error("Thẻ Đã Tồn Tại Trong Hệ Thống!");</script>';
     } else {
-
         $dataPost = array(
             'APIKey'        => $apikey,
             'NetworkCode'   => $type,
